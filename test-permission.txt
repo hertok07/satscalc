@@ -1,0 +1,1 @@
+SATSCALC deployment permission check
